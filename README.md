@@ -1,6 +1,6 @@
 ## 🥷 HI, my name Is Juan! ✨ 
 
- 🤖 A technology entusiast! 🤖
+ 🤖 A technology entusiast! 
  🎓 I.T graduate! 
  🎯 Actually Front-End 
 
