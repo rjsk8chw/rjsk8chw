@@ -1,8 +1,8 @@
-## 😎 Olá! Eu sou Juan Boullosa
+## 🥷 HI, my name Is Juan! ✨ 
 
-🐱‍🏍 Estudante de Tecnologia da Informação
-🎓 Formado em Sistemas de Informação
-🐍 Atualmente estudando Python
+ 🤖 A technology entusiast! 🤖
+ 🎓 I.T graduate! 
+ 🎯 Actually Front-End 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjsk8chw&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsk8chw&layout=compact)
